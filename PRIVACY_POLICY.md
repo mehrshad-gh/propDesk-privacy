@@ -1,12 +1,12 @@
-# Privacy Policy for PropertyDesk
+# Privacy Policy for PropDesk
 
 **Last Updated:** December 12, 2025
 
 ## Introduction
 
-PropertyDesk ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Property Management mobile application ("App" or "Service").
+PropDesk ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Property Management mobile application ("App" or "Service").
 
-By accessing or using PropertyDesk, you agree to the collection and use of information in accordance with this policy. If you do not agree with our policies and practices, do not use our Service.
+By accessing or using PropDesk, you agree to the collection and use of information in accordance with this policy. If you do not agree with our policies and practices, do not use our Service.
 
 ## Information We Collect
 
@@ -202,7 +202,7 @@ Some jurisdictions do not allow the exclusion of certain warranties or limitatio
 
 ## Indemnification
 
-You agree to indemnify, defend, and hold harmless PropertyDesk, its developers, affiliates, and service providers from and against any claims, liabilities, damages, losses, costs, or expenses (including reasonable attorneys' fees) arising from:
+You agree to indemnify, defend, and hold harmless PropDesk, its developers, affiliates, and service providers from and against any claims, liabilities, damages, losses, costs, or expenses (including reasonable attorneys' fees) arising from:
 - Your use of the Service
 - Your violation of this Privacy Policy or Terms of Service
 - Your violation of any rights of another party
@@ -238,21 +238,21 @@ If any provision of this Privacy Policy is found to be unenforceable or invalid,
 
 ## Entire Agreement
 
-This Privacy Policy, together with our Terms of Service, constitutes the entire agreement between you and PropertyDesk regarding the collection and use of your information.
+This Privacy Policy, together with our Terms of Service, constitutes the entire agreement between you and PropDesk regarding the collection and use of your information.
 
 ## Contact Us
 
 If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact:
 
 - **Email**: mehrshadghasemi77@gmail.com
-- **Company**: PropertyDesk
+- **Company**: PropDesk
 - **Subject Line**: "Privacy Policy Inquiry"
 
 We will respond to your inquiry within 30 days.
 
 ## Acknowledgment
 
-**By using PropertyDesk, you acknowledge that you have read, understood, and agree to be bound by this Privacy Policy. If you do not agree, please discontinue use of the Service immediately.**
+**By using PropDesk, you acknowledge that you have read, understood, and agree to be bound by this Privacy Policy. If you do not agree, please discontinue use of the Service immediately.**
 
 ---
 
